@@ -6,7 +6,7 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 * []()Transformed the dataset through a series of steps adding 20 additional calculated fields to better evaluate and compare performance
 * []()Ran four machine learning models to the one with the best predictive strength. Ultimately landing on logistic regression.
 * []()Utilized recursive feature elimination (RFE) to rank and prioritize the key performance metrics that drive net income performance landing on seven (7) KPI’s that provided the optimal logistic regression score
-* []()Build an interactive map in Tableau to provide quick access to high level information and foster user engagement with the data
+* []()Built an interactive map in Tableau to provide quick access to high level information and foster user engagement with the data
 * []()Built three interactive performance dashboards designed around the seven (7) highest ranked indicators identified in the RFE process and other closely related metrics
 
 
