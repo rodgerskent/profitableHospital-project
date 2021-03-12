@@ -12,7 +12,8 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 
 ## The project files and Tableau output are located at:
 The project git hub site: [https://github.com/rodgerskent/profitableHospital-project]
-The Tableau presentation is located at: [https:// public.tableau.com/profile/kent.rodgers#!/vizhome/profitableHospital/]
+
+The Tableau presentation is located at: [https://public.tableau.com/profile/kent.rodgers#!/vizhome/profitableHospital]
 
 
 ## Key Insights
@@ -22,4 +23,4 @@ The following key insights were brought to life in the assessment.
 * []()The predictive models can be made more accurate and efficient through the use of recursive feature elimination. 
 
 ## Reference Items & Data source
-The key website where the main data was source is located at: [https// data.cms.gov/browse?q=Medicare%20Hospital%20Cost&sortBy=relevance]
+The key website where the main data was source is located at: [https//data.cms.gov/browse?q=Medicare%20Hospital%20Cost&sortBy=relevance]
