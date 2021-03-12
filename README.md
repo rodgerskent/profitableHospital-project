@@ -2,7 +2,7 @@
 Extracted three years of hospital data from the Centers for Medicare & Medicaid Services. These data rich files provide revenue, net income and key operating information on more than 6,000 US based hospitals. Performed machine learning to identify the key drivers of net income performance and then built an interactive map and a series of performance dashboards to enable a CXX of a hospital to compare their performance to their peers. Key analyst actions included:
 * []()Extracting multiple files (years) of data from data.cms.gov
 * []()Built and ran a Google Maps API to append latitude and longitude information to support an interactive map
-* []()Appended the certificate of need requirement status to each record so that performance could be evaluated on this frequently argued dimension
+* []()Appended the certificate of need requirement status to each record so that performance could be evaluated on this highly debated topic
 * []()Transformed the dataset through a series of steps adding 20 additional calculated fields to better evaluate and compare performance
 * []()Ran four machine learning models to determine which model would provide the best predictive strength. Ultimately landing on logistic regression.
 * []()Utilized recursive feature elimination (RFE) to rank and prioritize the key performance metrics that drive net income performance landing on seven (7) KPI’s that provided the optimal logistic regression score
