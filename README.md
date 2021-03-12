@@ -13,7 +13,7 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 ## The project files and Tableau output are located at:
 The project git hub site: [https://github.com/rodgerskent/profitableHospital-project]
 
-The Tableau presentation is located at: [https://public.tableau.com/profile/kent.rodgers#!/]
+On Tableau Public: [https://public.tableau.com/profile/kent.rodgers#!/]
 
 
 ## Key Insights
