@@ -12,6 +12,7 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 
 ## Check out the interactive map and dashboards:
 On Tableau Public: [https://public.tableau.com/profile/kent.rodgers#!/]
+
 The project details and workbooks are on Git Hub at: [https://github.com/rodgerskent/profitableHospital-project]
 
 ## Key Insights
