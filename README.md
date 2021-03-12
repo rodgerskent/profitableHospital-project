@@ -18,8 +18,8 @@ On Tableau Public: [https://public.tableau.com/profile/kent.rodgers#!/]
 
 ## Key Insights
 The following key insights were brought to life in the assessment.
-* []()It is important to confirm the presenters definition of Net Income Percent if a topic of discussion. Net Income Percent is very different depending upon whether Gross Revenue or Net Patient Revenue is utilized to calculate. This is due the wide range of payor contracts and the high discount structure. 
-* []()Having an exception to or a requirement for a certificate of need does not appear to be a key driver of net income performance. In general hospitals operating in states that require a certificate of need perform better on some metrics this does not necessarily translate to enhanced net income performance. 
+* []()The large variation in contractor rates and published Net Income definitions can be misleading. It is important to confirm if Gross or Net Patient Revenue is being utlized when evaluating a hospitals net income percent performance.  
+* []()Whether a hospital (or surgery center) is subject to state certificate of need requirements does impact performance. The impact on net income percent is not statistically significant. 
 * []()The predictive models can be made more accurate and efficient through the use of recursive feature elimination. 
 
 ## Reference Items & Data source
