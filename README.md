@@ -10,11 +10,9 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 * []()Built three interactive performance dashboards designed around the seven (7) highest ranked indicators identified in the RFE process and other closely related metrics
 
 
-## The project files and Tableau output are located at:
-The project git hub site: [https://github.com/rodgerskent/profitableHospital-project]
-
+## Check out the interactive map and dashboards:
 On Tableau Public: [https://public.tableau.com/profile/kent.rodgers#!/]
-
+The project details and workbooks are on Git Hub at: [https://github.com/rodgerskent/profitableHospital-project]
 
 ## Key Insights
 The following key insights were brought to life in the assessment.
