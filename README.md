@@ -1,4 +1,4 @@
-## Profitable Hospital Project 
+## US Hospital Profitability
 Extracted three years of hospital data from the Centers for Medicare & Medicaid Services. These data rich files provide revenue, net income and key operating information on more than 6,000 US based hospitals. Performed machine learning to identify the key drivers of net income performance and then built an interactive map and a series of performance dashboards to enable a hospital executive or department head to compare their performance to their peers. Key analyst actions included:
 * []()Extracting multiple files (years) of data from data.cms.gov
 * []()Built and ran a Google Maps API to append latitude and longitude information to support an interactive map
