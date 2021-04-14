@@ -9,6 +9,7 @@ Extracted three years of hospital data from the Centers for Medicare & Medicaid 
 * []()Built an interactive map in Tableau to provide quick access to high level information and foster user engagement with the data
 * []()Built three interactive performance dashboards designed around the seven (7) highest ranked indicators identified in the RFE process and other closely related metrics
 
+![Overview Screenshot](https://github.com/rodgerskent/us_hospitalprofitability/overviewimage.jpg)
 
 ## Check out the interactive map and dashboards:
 On Tableau Public: [https://public.tableau.com/profile/kent.rodgers#!/]
